@@ -5,7 +5,7 @@ export const metadata = {
   title: '30 Recetas de Sopas Saludables - Guía de Longevidad',
   description: 'Descubre 30 recetas de sopas nutritivas que te ayudarán a vivir más y mejor. Guía completa con ingredientes saludables y preparaciones fáciles.',
   verification: {
-    google: 'sKEq_DXCwxfDevCn41A5iq1Cn9dhjffnuIEJRe95j9Q'
+    google: 'd71ed2c800b05aa9'
   }
 }
 

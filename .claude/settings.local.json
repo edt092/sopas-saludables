@@ -7,7 +7,9 @@
       "Bash(git add:*)",
       "Bash(git commit:*)",
       "Bash(echo \"# Google Analytics Measurement ID\nNEXT_PUBLIC_GA_ID=G-N3Z7FV2BTP\")",
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "WebFetch(domain:sopas-saludables.netlify.app)",
+      "Bash(git push:*)"
     ],
     "deny": [],
     "ask": []
