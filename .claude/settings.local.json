@@ -4,7 +4,10 @@
       "Bash(npm install)",
       "Bash(npm run dev:*)",
       "Bash(git init:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(echo \"# Google Analytics Measurement ID\nNEXT_PUBLIC_GA_ID=G-N3Z7FV2BTP\")",
+      "Bash(cat:*)"
     ],
     "deny": [],
     "ask": []
