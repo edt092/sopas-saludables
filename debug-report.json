@@ -1,0 +1,315 @@
+{
+  "summary": {
+    "startTime": "2025-12-03T22:18:43.133Z",
+    "duration": "22.76s",
+    "totalLogs": 40,
+    "errors": 0,
+    "warnings": 14,
+    "status": "SUCCESS"
+  },
+  "diagnostics": {
+    "urlAnalysis": {},
+    "loadingIssues": [],
+    "resourceProblems": [],
+    "performanceMetrics": {
+      "pageLoadTime": "3275ms",
+      "resourcesDownloaded": 0,
+      "networkErrors": 0,
+      "blockedRequests": 0
+    },
+    "suggestions": [],
+    "config": {
+      "userConfig": {
+        "url": "https://miltonjh.github.io/megaescuela/landing-pages/nutricion-vejez-activa/30-recetas-sopas.html#offer?ref=K101972366R",
+        "outputDir": "./sopas-longevidad",
+        "mode": "2",
+        "blockTracking": true,
+        "takeScreenshot": true
+      }
+    }
+  },
+  "detailedLogs": [
+    {
+      "timestamp": "2025-12-03T22:18:43.133Z",
+      "level": "INFO",
+      "category": "INIT",
+      "message": "Sistema de debugging inicializado",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:18:45.529Z",
+      "level": "INFO",
+      "category": "LOADING",
+      "message": "Cargando pagina...",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:18:45.569Z",
+      "level": "DEBUG",
+      "category": "NETWORK",
+      "message": "Interceptando: document - https://miltonjh.github.io/megaescuela/landing-pages/nutrici...",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:18:45.588Z",
+      "level": "WARN",
+      "category": "NETWORK",
+      "message": "Response invalido para: https://miltonjh.github.io/megaescuela/landing-pages/nutrici...",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:18:48.097Z",
+      "level": "DEBUG",
+      "category": "NETWORK",
+      "message": "Interceptando: script - https://cdn.tailwindcss.com/",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:18:48.106Z",
+      "level": "DEBUG",
+      "category": "NETWORK",
+      "message": "Interceptando: stylesheet - https://fonts.googleapis.com/css2?family=Poppins:wght@400;60...",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:18:48.118Z",
+      "level": "DEBUG",
+      "category": "NETWORK",
+      "message": "Interceptando: image - https://miltonjh.github.io/megaescuela/landing-pages/nutrici...",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:18:48.120Z",
+      "level": "DEBUG",
+      "category": "NETWORK",
+      "message": "Interceptando: image - https://miltonjh.github.io/megaescuela/landing-pages/nutrici...",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:18:48.125Z",
+      "level": "WARN",
+      "category": "NETWORK",
+      "message": "Response invalido para: https://cdn.tailwindcss.com/",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:18:48.128Z",
+      "level": "WARN",
+      "category": "NETWORK",
+      "message": "Response invalido para: https://fonts.googleapis.com/css2?family=Poppins:wght@400;60...",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:18:48.129Z",
+      "level": "WARN",
+      "category": "NETWORK",
+      "message": "Response invalido para: https://miltonjh.github.io/megaescuela/landing-pages/nutrici...",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:18:48.130Z",
+      "level": "WARN",
+      "category": "NETWORK",
+      "message": "Response invalido para: https://miltonjh.github.io/megaescuela/landing-pages/nutrici...",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:18:48.347Z",
+      "level": "DEBUG",
+      "category": "NETWORK",
+      "message": "Interceptando: image - https://miltonjh.github.io/megaescuela/landing-pages/nutrici...",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:18:48.351Z",
+      "level": "DEBUG",
+      "category": "NETWORK",
+      "message": "Interceptando: image - https://miltonjh.github.io/megaescuela/landing-pages/nutrici...",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:18:48.357Z",
+      "level": "DEBUG",
+      "category": "NETWORK",
+      "message": "Interceptando: image - https://miltonjh.github.io/megaescuela/landing-pages/nutrici...",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:18:48.369Z",
+      "level": "DEBUG",
+      "category": "NETWORK",
+      "message": "Interceptando: image - https://miltonjh.github.io/megaescuela/landing-pages/nutrici...",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:18:48.378Z",
+      "level": "DEBUG",
+      "category": "NETWORK",
+      "message": "Interceptando: image - https://miltonjh.github.io/megaescuela/landing-pages/nutrici...",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:18:48.404Z",
+      "level": "WARN",
+      "category": "NETWORK",
+      "message": "Response invalido para: https://miltonjh.github.io/megaescuela/landing-pages/nutrici...",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:18:48.409Z",
+      "level": "WARN",
+      "category": "NETWORK",
+      "message": "Response invalido para: https://miltonjh.github.io/megaescuela/landing-pages/nutrici...",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:18:48.411Z",
+      "level": "WARN",
+      "category": "NETWORK",
+      "message": "Response invalido para: https://miltonjh.github.io/megaescuela/landing-pages/nutrici...",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:18:48.412Z",
+      "level": "WARN",
+      "category": "NETWORK",
+      "message": "Response invalido para: https://miltonjh.github.io/megaescuela/landing-pages/nutrici...",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:18:48.413Z",
+      "level": "WARN",
+      "category": "NETWORK",
+      "message": "Response invalido para: https://miltonjh.github.io/megaescuela/landing-pages/nutrici...",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:18:48.755Z",
+      "level": "DEBUG",
+      "category": "NETWORK",
+      "message": "Interceptando: image - https://miltonjh.github.io/megaescuela/landing-pages/nutrici...",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:18:48.777Z",
+      "level": "DEBUG",
+      "category": "NETWORK",
+      "message": "Interceptando: font - https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7...",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:18:48.784Z",
+      "level": "DEBUG",
+      "category": "NETWORK",
+      "message": "Interceptando: font - https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJfe...",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:18:48.789Z",
+      "level": "DEBUG",
+      "category": "NETWORK",
+      "message": "Interceptando: font - https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6...",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:18:48.806Z",
+      "level": "INFO",
+      "category": "LOADING",
+      "message": "Pagina cargada en 3275ms",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:18:48.807Z",
+      "level": "INFO",
+      "category": "LOADING",
+      "message": "Esperando 15s para JavaScript...",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:18:48.816Z",
+      "level": "WARN",
+      "category": "NETWORK",
+      "message": "Response invalido para: https://miltonjh.github.io/megaescuela/landing-pages/nutrici...",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:18:48.817Z",
+      "level": "WARN",
+      "category": "NETWORK",
+      "message": "Response invalido para: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7...",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:18:48.817Z",
+      "level": "WARN",
+      "category": "NETWORK",
+      "message": "Response invalido para: https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJfe...",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:18:48.818Z",
+      "level": "WARN",
+      "category": "NETWORK",
+      "message": "Response invalido para: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6...",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:19:03.817Z",
+      "level": "INFO",
+      "category": "ANALYSIS",
+      "message": "Capturando informacion de la pagina...",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:19:03.828Z",
+      "level": "INFO",
+      "category": "ANALYSIS",
+      "message": "Titulo: Nutrición para una Vejez Activa: Sopas y Cremas",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:19:03.829Z",
+      "level": "INFO",
+      "category": "ANALYSIS",
+      "message": "Framework: Desconocido",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:19:03.829Z",
+      "level": "INFO",
+      "category": "ANALYSIS",
+      "message": "Contenido: Detectado",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:19:03.830Z",
+      "level": "INFO",
+      "category": "SAVE",
+      "message": "Guardando HTML...",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:19:03.842Z",
+      "level": "INFO",
+      "category": "SAVE",
+      "message": "Tomando screenshot...",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:19:05.748Z",
+      "level": "INFO",
+      "category": "SAVE",
+      "message": "Screenshot guardado",
+      "data": null
+    },
+    {
+      "timestamp": "2025-12-03T22:19:05.748Z",
+      "level": "INFO",
+      "category": "SUCCESS",
+      "message": "Descarga completada exitosamente!",
+      "data": null
+    }
+  ],
+  "errorAnalysis": {},
+  "troubleshooting": []
+}
