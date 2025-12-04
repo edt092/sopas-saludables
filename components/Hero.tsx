@@ -70,7 +70,7 @@ export default function Hero() {
               {[...Array(5)].map((_, i) => (
                 <img
                   key={i}
-                  src={`https://api.dicebear.com/7.x/avataaars/svg?seed=${i}`}
+                  src={`/img/avatares/avatar${i + 1}.jpg`}
                   alt="Avatar"
                   className="w-10 h-10 rounded-full border-2 border-white object-cover bg-gray-100"
                 />
